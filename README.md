@@ -1,7 +1,5 @@
-# my-first-project
-Toggle project for learning JavaScript and DOM
-
 # Toggle Project
+
 This is my first JavaScript project.  
 
 Features:
